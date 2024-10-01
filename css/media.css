@@ -16,3 +16,26 @@
         margin: 20px;
     }
 }
+
+/* Para telas menores que 950px */
+@media (max-width: 1920px) {
+    #minhaImagem {
+        content: url('../assets/Slogans/Slogan1920.jpg'); /* Troca a imagem */
+    }
+}
+
+@media (max-width: 950px) {
+    #minhaImagem {
+        content: url('../assets/Slogans/Slogan950.jpg'); /* Troca a imagem */
+    }
+}
+@media (max-width: 450px) {
+    #minhaImagem {
+        content: url('../assets/Slogans/Slogan450.jpg'); /* Troca a imagem */
+    }
+}
+@media (max-width: 375px) {
+    #minhaImagem {
+        content: url('../assets/Slogans/Slogan375.jpg'); /* Troca a imagem */
+    }
+}
