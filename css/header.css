@@ -23,7 +23,8 @@ h1{
 }
 
 nav{
-    
+    position: fixed;
+
     background-color: #632C91;
     color: #fff;
     align-content: center;
