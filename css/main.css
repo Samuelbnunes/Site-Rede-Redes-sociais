@@ -1,0 +1,24 @@
+.containerPdfRedes > img{
+    display: block;
+    width: 100%;
+    height: auto;
+    justify-self: center;
+}
+
+.containerPdfRedes {
+    display: block;
+    width: 50%;
+    height: auto;
+}
+main{
+    background-color: #7729f560;
+
+}
+.containerAssunto{
+    display: flex;
+    justify-content: center;
+}
+.containerAssunto2{
+    display: flex;
+    justify-content: center;
+}
