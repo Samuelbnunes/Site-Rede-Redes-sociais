@@ -1,6 +1,7 @@
 aside{
-    background-color: #2a0cd3;
-    color: #c2bb7f;
+    margin-top: 50px;
+    
+    border-radius: 50px;
 }
 .topico{
     display: flex;
@@ -9,6 +10,15 @@ aside{
     justify-content: center;
     align-items: center;
 }
+#cor1{
+    background-color: #1A88A4;
+    color: #fff;
+}
+#cor2{
+    background-color: #632C91;
+    color: #fff;
+}
 h2{
     align-self: center;
+    
 }
