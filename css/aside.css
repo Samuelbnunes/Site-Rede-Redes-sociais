@@ -24,3 +24,18 @@ h2{
     align-self: center;
     
 }
+#corFonte1{
+    background-color: #1A88A4;
+    color: #fff;
+    margin: 20px 10px;
+}
+#corFonte2{
+    background-color: #632C91;
+    color: #fff;
+    margin: 20px 10px;
+
+}
+.corFonte2{
+    background-color: #D5C7E1;
+    color: #fff;
+}
