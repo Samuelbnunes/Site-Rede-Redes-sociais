@@ -1,12 +1,12 @@
 header{
-    background-color: #fff;
-    color: #000;
+    background-image: linear-gradient(#632C91, #1A88A4);
+    color: #ffffff;
     
 }
 .containerCabecalho{
     display: flex;
     width: 100%;
-    height: 80vh;
+    height: 90vh;
     justify-content: center;
 }
 .containerCabecalho > img{
@@ -15,31 +15,43 @@ header{
 }
 h1{
     align-self: center;
-    
+    text-align: center;
+    margin: 15px;
     box-shadow: 7px 6px 1px 1px;
     padding: 5px;
     font-size: 3em;
 }
 
 nav{
-    width: 100%;
-    height: 20vh;
-    background-color: #000;
+    
+    background-color: #632C91;
     color: #fff;
     align-content: center;
-    cursor: pointer;
+    width: 100%;
+    height: auto;
 }
 ul{
+    width: 100%;
+    height: auto;
     display: flex;
-    justify-content: space-around;
+   
     align-items: center;
    
 }
 li{
+    
+    align-content: center;
+    width: 100%;
+    height: 10vh;
     list-style: none;
-    cursor: pointer;
+    text-align: center;
+    /* border: 1px solid red; */
+    
 }
 a{
+    
+    width: 100%;
+    height: 10vh;
     text-decoration: none;
     color: #fff;
     
